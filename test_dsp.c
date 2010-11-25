@@ -1,9 +1,14 @@
+/**
+ * NON-Functional Sample code from Prof. Zucker[berg]
+ *
+ */
+
 #include <unistd.h>
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
 
-
+// Libraries
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
